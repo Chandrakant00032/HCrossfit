@@ -461,13 +461,13 @@ footer .social .item i:hover{
 }
 @media (max-width: 500px){
     .logo{
-    position:absolute;
-    top: 20px;
-    left: 20px;
-    color:#fff;
+        position:absolute;
+        top: 20px !important;
+        left: 20px;
+        color:#fff;
     }
     .logo img{
-    width: 17%;
+        width: 17% !important;
     }
     .sec-3 .content{
         grid-template-columns: 1fr;
