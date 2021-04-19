@@ -460,6 +460,15 @@ footer .social .item i:hover{
     
 }
 @media (max-width: 500px){
+    .logo{
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    color:#fff;
+    }
+    .logo img{
+    width: 17%;
+    }
     .sec-3 .content{
         grid-template-columns: 1fr;
     }
